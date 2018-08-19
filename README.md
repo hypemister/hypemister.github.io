@@ -7,7 +7,6 @@ Empiezo en el mundo del diseño en la Escuela IED, cursando Introducción al Dis
 Lefties, Inditex S.A.
 En el año 2011 me incorporo a Lefties, empresa del Grupo Inditex, para la que me encargo de la línea gráfica de la sección de Señora. Durante 4 años realizamos un cambio de imagen, en cuanto a marca, línea de ropa y target, concluyendo en lo que hoy es [Lefties](www.lefties.com), una marca más del grupo Inditex, con visibilidad en mas de 150 tiendas en España, Portugal, Rusia y México.
 
-––––––––––––––––––––––––––––––––––––––––––––
 
 ### Contáctame
 
