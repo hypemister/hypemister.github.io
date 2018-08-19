@@ -11,8 +11,8 @@ En el año 2011 me incorporo a Lefties, empresa del Grupo Inditex, para la que m
 
 ### Contáctame
 
-{% octicon device-mobile %} - juanalbis@gmail.com
+ juanalbis@gmail.com
 
- {% octicon device-mobile %} - :email: 667526269
+ 667526269
 
 
