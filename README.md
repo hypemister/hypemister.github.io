@@ -10,8 +10,6 @@ En el año 2011 me incorporo a Lefties, empresa del Grupo Inditex, para la que m
 
 ### Contáctame
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
  juanalbis@gmail.com
  667526269
