@@ -1,0 +1,98 @@
+.logo {
+  width:81px;
+  margin:12px;
+}
+
+.horizontal-div {
+  width:100vh;
+  height:45px;
+  position:fixed;
+  -webkit-transform-origin:left top;
+  -webkit-transform:rotate(-90deg) translateX(-100%);
+  margin-left:28px;
+  margin-top:30vh;
+}
+
+.list-inline {
+  float:right;
+  line-height:45px;
+}
+
+body {
+  font-family:'Inconsolata';
+  color:#333333;
+}
+
+.list-inline-item {
+  padding-right:17px;
+  text-align:center;
+}
+
+.header-principal {
+  position:fixed;
+}
+
+.div.image {
+  position:absolute;
+  top:50px;
+}
+
+.fashion-img {
+  height:400px;
+}
+
+.div-image {
+  position:absolute;
+  top:300px;
+  right:-80px;
+}
+
+@media (min-width: 768px) {
+  .fashion-img {
+    height:800px;
+  }
+}
+
+@media (min-width: 300px) {
+  .horizontal-div {
+    margin-left:1px;
+  }
+}
+
+.main-text {
+  position:absolute;
+  top:300px;
+  left:100px;
+  margin-right:38px;
+}
+
+.main-text {
+}
+
+@media (min-width: 768px) {
+  .div-image {
+    top:100px;
+    right:-80px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .div-image {
+    right:-10px;
+  }
+}
+
+.main-footer {
+  position:absolute;
+  bottom:20px;
+  left:13px;
+  -webkit-transform-origin:left top;
+  -webkit-transform:rotate(-90deg) translateX(-100%);
+}
+
+@media (min-width: 992px) {
+  .main-footer {
+    bottom:152px;
+  }
+}
+
